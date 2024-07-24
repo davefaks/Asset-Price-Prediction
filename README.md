@@ -1,4 +1,4 @@
-# Asset Price Prediction
+# LSTM Recurrent Neural Network for Asset Price Prediction
 
 This project involves building a Long Short Term Model (LSTM) recurrent neural network to predict the price direction of an asset based on historical data, utilizing a prediction window of 30 minutes. The objective of this project is to leverage available data and develop a robust predictive model.
 
